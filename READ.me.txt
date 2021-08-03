@@ -1,0 +1,1 @@
+Ne pas ranger les images, les chemins d'accès des images pour le projet sont fait tel que les images doivent rester ici
