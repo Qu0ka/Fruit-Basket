@@ -1,1 +1,6 @@
 Ne pas ranger les images, les chemins d'accès des images pour le projet sont fait tel que les images doivent rester ici
+
+Pour run le projet / code si téléchargé depuis GitHub
+- Dans pycharm, cliquer sur addconfigurations en haut à droite
+- insérer le path de la classe main du projet (cliquer sur l'explorateur de fichier à coté de script path puis sélectionner la classe main du projet à l'endroit ou il
+a été téléchargé).
